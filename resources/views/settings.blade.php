@@ -40,7 +40,7 @@
             </div>
 
             <h1> This is settings page </h1>
-            
+            <h2> this is user page</h1>
             
             </div>
 
